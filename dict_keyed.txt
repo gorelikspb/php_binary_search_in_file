@@ -1,0 +1,15 @@
+about	first
+above	second
+abroad	third
+absence	fourth
+absent	fifth
+absolute	sixth
+absolutely	seventh
+absorb	eight
+abuse	ninth
+academic	tenth
+accent	eleventh
+accept	twelfth
+acceptable	thirteenth
+access	fourteenth
+accident	fifteenth
